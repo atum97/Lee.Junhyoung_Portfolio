@@ -8,10 +8,10 @@
 
 ## 💻사용 기술
 - R
- - ARIMA 
- - qqnorm
- - Box test
- - accuracy
+  - ARIMA 
+  - qqnorm
+  - Box test
+  - accuracy
 - Python
 - Q-GIS
 
