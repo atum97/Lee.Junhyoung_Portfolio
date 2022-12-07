@@ -1,9 +1,9 @@
-# 이준형 포트폴리오
+## 이준형 포트폴리오
 E-mail: atum97@naver.com \
 School: Harbin Institute of Technology (哈尔滨工业大学)
 Major: 데이터통계학과 (大数据管理与应用)
 
-## 📌Project
+# 📌Project
 ### 1. [고객 segmentation 분석](https://github.com/atum97/Lee.Junhyoung_Portfolio/tree/main/%EA%B3%A0%EA%B0%9Dsegmentation)
 > **(주)이노포스트 인턴** \
 > 수행기간: 2022.11.01 ~ 2022.11.30
