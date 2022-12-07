@@ -11,6 +11,7 @@
 - Python
 - K-means clustering
 - 연관분석
+    - Apriori algorithm 
 - PCA
 - Standard Scaling
 
