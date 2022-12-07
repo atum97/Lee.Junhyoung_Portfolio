@@ -43,7 +43,7 @@ Major: 데이터통계학과 (大数据管理与应用)
 > 사용기술: LogisticReression, SVC (Support Vector Machine), RandomForest Classifier, KNeighbors Classifier
 
 ## 📌External Activities
-[리더쉽] \
+[리더쉽]
 - 중국어 통번역 동아리 'HIFY'창설
   - 하얼빈공업대학교 예과반 학생ㄷ르의 원활한 중국어 학습을 위해 중국어 교재를 한국어로 번역
   - instagram페이지 창설하여 일상 회화 및 활용 단어 게시
