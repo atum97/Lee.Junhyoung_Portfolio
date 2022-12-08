@@ -16,7 +16,7 @@ Major: 데이터통계학과 (大数据管理与应用)
 > **(주)이노포스트 인턴** \
 > 수행기간: 2022.07.01 ~ 2022.10.31
 > 
-> 사용기술: Crawling, Python, Jupyter, Q-QIS
+> 사용기술: Crawling, Python, Jupyter, Q-QIS, Z-score, GIS_최근접 알고리즘, 상관분석
 
 ---
 
