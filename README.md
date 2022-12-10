@@ -17,7 +17,7 @@ Major: 데이터통계학과 (大数据管理与应用)
 > 수행기간: 2022.07.01 ~ 2022.10.31
 > 
 > 사용기술: Crawling, Python, Jupyter, Q-QIS, Z-score, GIS_최근접 알고리즘, 상관분석
-
+> **⚠공공기관의 데이터 분석 사업으로, 기술 불가⚠**
 ---
 
 #### 3. [가축 환경오염 지수 개발 및 시각화](https://github.com/atum97/Lee.Junhyoung_portfolio/tree/main/%ED%99%98%EA%B2%BD%EC%98%A4%EC%97%BC%20%EC%A7%80%EC%88%98%20%EA%B0%9C%EB%B0%9C)
