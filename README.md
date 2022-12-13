@@ -9,7 +9,7 @@ Major: 데이터통계학과 (大数据管理与应用)
 > 수행기간: 2022.11.01 ~ 2022.11.30
 > 
 > 사용기술: Python, K-means clustering, Elbow value, 실루엣계수, scatter plot, 연관분석, Apriori algorithm, PCA, Standard Scaling
-
+s
 ---
 
 #### 2. 의왕시 보행안전지수 개발 및 시각화
