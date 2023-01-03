@@ -1,5 +1,5 @@
 ## 이준형 포트폴리오
-E-mail: atum97@naver.com \
+E-mail: @naver.com \
 School: Harbin Institute of Technology (哈尔滨工业大学) \
 Major: 데이터통계학과 (大数据管理与应用)
 
