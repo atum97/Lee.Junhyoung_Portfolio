@@ -4,6 +4,14 @@ School: Harbin Institute of Technology (哈尔滨工业大学) \
 Major: 데이터통계학과 (大数据管理与应用)
 
 ## 📌Project
+#### 1. [맛집추천알고리즘 구현](https://github.com/gnuoyhnuj/Toy_Project)
+> **Toy Project** \
+> 수행기간: 2023.01.26 ~ 2023.03.29
+> 
+> 사용기술: Python, 코사인유사도, crawling, 구글설문, word cloud, matplotlib
+
+---
+
 #### 1. [고객 segmentation 분석](https://github.com/atum97/Lee.Junhyoung_Portfolio/tree/main/%EA%B3%A0%EA%B0%9Dsegmentation)
 > **(주)이노포스트 인턴** \
 > 수행기간: 2022.11.01 ~ 2022.11.30
